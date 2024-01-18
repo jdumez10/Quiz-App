@@ -48,9 +48,9 @@ To get the Quiz-App running locally, follow these steps:
    npm install
    ```
 3. Start the React client
-  ```bash
-  npm start
-  ```
+   ```bash
+   npm start
+   ```
 
 
 ## Usage
