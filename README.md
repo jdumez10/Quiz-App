@@ -34,9 +34,9 @@ To get the Quiz-App running locally, follow these steps:
    ```bash
    npm install
 3. Start the server
-  ```bash
-  npm start
-  ```
+   ```bash
+   npm start
+   ```
   
 ### Client Setup
 1. Open a new terminal and navigate to the client folder
@@ -44,9 +44,9 @@ To get the Quiz-App running locally, follow these steps:
    cd Quiz-App/client
    ```
 2. Install client dependencies
-  ```bash
-  npm install
-  ```
+   ```bash
+   npm install
+   ```
 3. Start the React client
   ```bash
   npm start
