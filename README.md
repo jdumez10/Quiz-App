@@ -52,10 +52,8 @@ To get the Quiz-App running locally, follow these steps:
    npm start
    ```
 
-
 ## Usage
 After starting both the server and client, the Quiz-App will be accessible at http://localhost:3000. Navigate through the app to create an account, make quizzes, or participate in community quizzes.
-
 
 ## Contributing
 Contributions to improve this project are welcome. Please follow these steps to contribute:
